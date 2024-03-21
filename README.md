@@ -8,4 +8,4 @@ about theoretical methods and computational tools commonly used in quantum chemi
 Basic arithmetic, NumPy Arrays: Vectors, Numpy Arrays: Matrices, Dot products between vectors,
 Matrix-vector products, Matrix-matrix products, Hermitian matrices, Eigenvalues and eigenvectors, and Commutators.  
  
-**CO_Perturbation_Theory**: In this notebook, we are Computing the Fundamental Transition of CO under different levels of approximation.   
+**CO_Perturbation_Theory**: In this notebook, we are Computing the Fundamental Transition Energy of CO with different levels of approximation.   
